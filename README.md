@@ -42,7 +42,6 @@
 
 Outside of [GitHub](https://github.com/a-dera/), You can find me at
 
-[![Twitter: a-dera](https://img.shields.io/twitter/follow/P_A_DERA?style=social)](https://twitter.com/P_A_DERA)
 
 [![Linkedin: Amédée DERA](https://img.shields.io/badge/-a-dera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/am%C3%A9d%C3%A9e-d-192689125/)](https://www.linkedin.com/in/am%C3%A9d%C3%A9e-d-192689125/)
 
