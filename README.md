@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on Web back-end projects, some in PHP (Symfony5), others in Python (Django3). 
-- 🌱 I’m currently learning Go, Rust and the Python library Scikit-learn.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on Open Source projects matching ML, Data Science or IoT.
 - 📫 How to reach me: dera.amedee@gmail.com
 - ⚡ Fun fact: The whole universe is written in python
@@ -43,9 +43,7 @@
 
 Outside of [GitHub](https://github.com/a-dera/), You can find me at
 
+Discord:  a-dera#8999
 
-[![Linkedin: Amédée DERA](https://img.shields.io/badge/-a-dera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/am%C3%A9d%C3%A9e-d-192689125/)](https://www.linkedin.com/in/am%C3%A9d%C3%A9e-d-192689125/)
-
-[![Discord: a-dera](https://img.shields.io/discord/channels/@vikmaltis#8999?style=flat-square)](https://discord.com/channels/@vikmaltis#8999)
 
 
