@@ -2,7 +2,7 @@
 
 > I am a typical developer (code is most of my life 😄).
 > Really passionate about PYTHON programming langage, Artificial Intelligence, Data Science, Blockchain, and IoT.
-> I am one of those who believe that (only) code can save us.
+> I am one of those who believe that code can save us.
 > I am also in constant search of challenges which require to find new solutions to solve problems faced by people in their everyday life.
 
 
