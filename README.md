@@ -12,7 +12,7 @@
 - 📫 How to reach me: dera.amedee@gmail.com
 - ⚡ Fun fact: The whole universe is written in python
 
-#### [Portofolio](https://a-dera.github.io/)
+#### [Portofolio](https://a-dera.com/)
 
 
 **Languages and Tools:**
